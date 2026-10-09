@@ -1,5 +1,4 @@
 # Sistema-de-gestao-laboratorial
-
 Projeto Full Stack para portfólio, desenvolvido com Node.js, TypeScript, Express, React e PostgreSQL.
 
 > Projeto educacional com dados fictícios. Não utilize dados médicos reais.
